@@ -14,7 +14,7 @@ public class AgentieImobiliaraLazy {
         this.cifraAfaceri = cifraAfaceri;
     }
 
-    public static AgentieImobiliaraLazy getAgentieImobiliaraLazy(String nume, int nrAnunturi, String site, float cifraAfaceri) {
+    public synchronized static AgentieImobiliaraLazy getAgentieImobiliaraLazy(String nume, int nrAnunturi, String site, float cifraAfaceri) {
         if(agentieImobiliara==null){
             agentieImobiliara = new AgentieImobiliaraLazy(nume,nrAnunturi,site,cifraAfaceri);
         }
