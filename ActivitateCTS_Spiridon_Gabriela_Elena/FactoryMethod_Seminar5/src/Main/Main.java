@@ -1,7 +1,7 @@
 package Main;
 
 
-import Clase.Angajat;
+import Clase_Facade.Angajat;
 import Fabrici.FactoryPersonalMedical;
 import Fabrici.FactoryPersonalNonMedical;
 import Fabrici.TipPersonalMedical;

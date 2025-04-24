@@ -1,8 +1,7 @@
 package Reader;
 
-import Clase.Angajat;
-import Clase.Aplicant;
-import Clase.Student;
+import Clase_Facade.Aplicant;
+import Clase_Facade.Student;
 
 import java.io.File;
 import java.io.FileNotFoundException;

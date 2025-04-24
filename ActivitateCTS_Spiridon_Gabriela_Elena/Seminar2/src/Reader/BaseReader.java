@@ -1,6 +1,6 @@
 package Reader;
 
-import Clase.Aplicant;
+import Clase_Facade.Aplicant;
 
 import java.io.FileNotFoundException;
 import java.util.List;

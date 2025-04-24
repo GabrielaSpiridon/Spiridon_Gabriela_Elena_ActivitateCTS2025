@@ -1,9 +1,7 @@
 package Fabrici;
 
-import Clase.*;
+import Clase_Facade.*;
 
-import static Fabrici.TipPersonalMedical.ASISTENT;
-import static Fabrici.TipPersonalMedical.MEDIC;
 import static Fabrici.TipPersonalNonMedical.PORTAR;
 import static Fabrici.TipPersonalNonMedical.SECRETAR;
 

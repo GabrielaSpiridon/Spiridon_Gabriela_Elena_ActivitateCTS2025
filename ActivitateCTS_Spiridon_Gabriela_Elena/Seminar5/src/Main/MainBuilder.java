@@ -1,8 +1,7 @@
 package Main;
 
-import Clase.AbstractBuilder;
-import Clase.Pacient;
-import Clase.PacientBuilder;
+import Clase_Facade.Pacient;
+import Clase_Facade.PacientBuilder;
 
 public class MainBuilder {
     public static void main(String[] args) {

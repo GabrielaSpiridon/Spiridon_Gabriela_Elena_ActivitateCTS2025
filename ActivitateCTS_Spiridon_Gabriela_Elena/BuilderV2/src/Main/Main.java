@@ -1,7 +1,7 @@
 package Main;
 
-import Clase.Pacient;
-import Clase.PacientBuilder;
+import Clase_Facade.Pacient;
+import Clase_Facade.PacientBuilder;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

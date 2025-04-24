@@ -1,8 +1,8 @@
 package Fabrici;
 
-import Clase.Angajat;
-import Clase.Asistent;
-import Clase.Medic;
+import Clase_Facade.Angajat;
+import Clase_Facade.Asistent;
+import Clase_Facade.Medic;
 
 import static Fabrici.TipPersonalMedical.ASISTENT;
 import static Fabrici.TipPersonalMedical.MEDIC;
